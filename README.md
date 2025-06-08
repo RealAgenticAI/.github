@@ -41,9 +41,10 @@ Our platform aligns with global goals of:
 
 ## 🛠 **Tech Stack**
 
-* GPT-4 / GPT-4o (OpenAI)
+* GPT-4 | GPT-4o | GPT-4.5 | o4-mini and o3-mini | o3 and o1  (OpenAI)
 * Python, FastAPI, LangChain
-* Cloud-native architecture (AWS / Azure)
+* Cloud-native architecture (Azure)
+* Pinecone
 * Secure data handling & compliance
 
 ---
